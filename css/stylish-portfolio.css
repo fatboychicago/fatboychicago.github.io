@@ -1,3 +1,4 @@
+
 /*!
  * Start Bootstrap - Stylish Portfolio (http://startbootstrap.com/)
  * Copyright 2013-2016 Start Bootstrap
@@ -20,6 +21,10 @@ body {
 	color: #FFFFFF;
 	
 }
+.adultsection{
+	color: #000000;
+	background-color: #FFFFFF;
+}	
 .jonniesection{
 	color:#000000;
 }
@@ -39,7 +44,10 @@ body {
     font-size: 4.5em;
     font-weight: 700;
 }
-
+.jonnietext{
+    font-size: 1.5em;
+	text-shadow: 20px;
+}
 /* Custom Button Styles */
 
 .btn-dark {
